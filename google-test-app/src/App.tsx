@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <main className='main'>
+      <main className='w-full h-screen font-roboto flex-col'>
         <Menu />
         <Search />
       </main>
